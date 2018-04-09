@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1523242718 source:c:\users\gino\desktop\c++\trabajo_practico_1.cpp\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
